@@ -27,3 +27,23 @@
  
 Thank you! Your stars🌟 and recommendations are what make this community vibrant!
 ---
+
+## Table of Contents
+- [📚 Comparison Table](#plugin-showdown-comparison-table)
+- [❓ FAQ](#faq)
+
+---
+
+# Plugin Showdown Comparision Table
+
+| Unnamed: 0 | Feature | Stylish Cost Calculator | Stylemix | ConvertCalculator | Calculated Fields Form | Formidable Forms | Forminator | WPForms |
+|---|---|---|---|---|---|---|---|---|
+| URL |  |  | https://stylemixthemes.com/cost-calculator-plugin/ | https://www.convertcalculator.com/pricing/ | cff.dwbooster.com  | https://formidableforms.com/pricing/ | https://wpmudev.com/project/forminator-pro/ | https://wpforms.com/features/ |
+| Yearly Cost |  | $99 USD | $49 USD | $780 | EUR 50 - 150/One off payment | $399 USD | $180 USD | $599 (elite) |
+| Pricing Structures | Bulk Pricing & Sliding Scale Pricing\nGive volume discount to users | ✔ | X | X | X | X | X | ✔? |
+|  | Custom Math\nAdd percentages to the total cost. Trigger fees or discounts | ✔ | X | X | X | X | X | X |
+|  | Variable Math\nLength x Width x Height, package deals, more | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+|  | Total Price Formula\nBuild any formula for your Calculator. | With Workaround ✔ | ✔ | ✔ | ✔ | ✔? | ✔ | ✔? |
+| Frontend Functionality | Invoice Summary\nShow user an itemized-list of their selections | ✔ | ✔ | X | X | X | X | X |
+|  | Tax\nCharge tax and display on frontend | ✔ | X | X | X | X | X | X |
+...
